@@ -8,3 +8,5 @@ These are my personal preferences while doing development.
 
 
 #### The default .gitconfig file is located at *~/.gitconfig* (For Unix systems alone. See above article for other OS's).
+
+#####https://digitalfortress.tech/tutorial/setting-up-git-prompt-step-by-step/
